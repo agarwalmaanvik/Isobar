@@ -26,5 +26,3 @@ Isobar supports a wide range of weather-linked payouts:
 - **Backtesting**: Python (for large-scale historical data analysis)
 - **Frontend**: React/Vite (for real-time visualization of risk surfaces)
 
----
-*Isobar is designed for risk professionals who require precision, transparency, and scientific rigor in weather risk management.*
